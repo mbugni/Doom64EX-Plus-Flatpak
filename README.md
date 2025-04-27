@@ -10,5 +10,5 @@ $ flatpak-builder --user --verbose --install --install-deps-from=flathub --force
   build io.github.atsb.Doom64EX-Plus.yaml
 ```
 
-## Copy game files
+## Copy game data files
 If you already have required data files, just copy them in folder `~/.var/app/io.github.atsb.Doom64EX-Plus/data/doom64ex-plus`.

@@ -36,7 +36,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/atsb/Doom64EX-Plus
-        branch: flatpak
+        tag: 4.0.0.3.SDL.3.2.10
       - type: file
         path: doom64ex-plus.metainfo.xml
       - type: file
